@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DurabHaider
 - 👀 I’m interested in App Development, Web Development, AI, Machine Learning.
-- 🌱 I’m currently learning DataBase Management System (MySQL) and have a good grip on C++, java and html.
+- 🌱 I’m currently learning DataBase Management System (MySQL) and have a good grip on C++, java, html and Assembly Language.
 - 💞️ I’m looking to collaborate for success of this venture.
 - 📫 Mail: haiderdurab18@gmail.com 
 - ⚡ Whatsapp: +92 309-5180478.
